@@ -70,3 +70,9 @@ html[xmlns] .clearfix {
 * html .clearfix {
     height: 1%;
 }
+
+#my-sticky-element {
+	margin: 200px;
+	padding: 10px;
+	background-color: cyan 
+}
